@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything (probably cant help tho)
 - 📫 How to reach me: call me 
 
-portfolio: [here](https://raycaster.domovprojekt.com/desktop.html)
+🇨🇿 portfolio: [here](https://raycaster.domovprojekt.com/desktop.html)
