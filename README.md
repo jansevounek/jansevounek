@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a vue Linux learning app
 - 🌱 I’m currently learning vue js, flask, supabase and docker
 - 👯 I’m looking to collaborate on nothing (am busy)
