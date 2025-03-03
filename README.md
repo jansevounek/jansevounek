@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jansevounek@gmail.com**
 
-- ⚡ Fun fact **I dont think i am funny**
+- ⚡ Fun fact **"Where leshaunt dingelnut goes is where leshaunt diglenut stays"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
